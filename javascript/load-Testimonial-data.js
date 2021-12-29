@@ -24,7 +24,7 @@ function displayCard(data){
            <h2 style="color: #30FBEF;margin-bottom:0;"><b>${cardInfo.name}</b></h2> 
            <div style="display:flex;height:30px;">
            <div ><p style="color: blueviolet;weight:"385";font-weight: 400;
-           font-size: 0.875rem;">${cardInfo.job}</p></div>
+           font-size: 16px;">${cardInfo.job}</p></div>
        
             <div><p style="color: #30FBEF;margin-left: 45px;">
             <i class="fas fa-circle"></i>
@@ -38,7 +38,7 @@ function displayCard(data){
           
            </div>
            <p style="color: white; font-weight: 400;
-           font-size: 1.125rem;">${cardInfo.detail}</p> 
+           font-size: 18px;">${cardInfo.detail}</p> 
            
          </div>
          
@@ -56,7 +56,7 @@ function displayCard(data){
            <h2 style="color: #30FBEF;margin-bottom:0;"><b>${cardInfo.name}</b></h2> 
            <div class="job_rating" style="display:flex;height:30px;">
            <div ><p style="color: #9C69E2;font-weight: 400;
-           font-size: 0.875rem;">${cardInfo.job}</p></div>
+           font-size: 14px;">${cardInfo.job}</p></div>
        
             <div><p style="color: #30FBEF;margin-left: 45px;">
             <i class="fas fa-circle"></i>

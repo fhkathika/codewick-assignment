@@ -1,8 +1,9 @@
 body{
     background-color: #282828;
-    width: 100%;
 
-overflow-x: hidden;
+      max-width: 100%;
+       
+  
    
 }
 
@@ -344,6 +345,7 @@ width: 50%;
   }
   
   @media screen and ( max-width: 992px) {
+
     .header a {
       float: none;
       display: block;
@@ -402,7 +404,7 @@ width: 50%;
    }
   .download-app{
     width: 100%;
-   
+   margin-bottom: 20px;
     display: block;
   }
   .download-app-heading{
@@ -412,10 +414,11 @@ width: 50%;
 
   .download-app-img img{
 margin-top: -290px;
-    transform: rotate(-40deg);
+margin-right:10px ;
+    transform: rotate(-45deg);
    transform-origin: bottom right ;
- margin-bottom: 85%;
-   align-items: center;
+ margin-bottom: 20rem;
+  
 
   
   }
