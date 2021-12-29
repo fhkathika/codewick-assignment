@@ -1,0 +1,32 @@
+[
+   {
+    "name":"John Fang",
+    "image":"https://i.ibb.co/FBmBD48/timg1.jpg",
+    "job":"Web Designer",
+    "rating":4,
+    "detail":"Suspendisse ultrices at diam lectus nullam.Nisl,sagittis viverra enim erat tortor ultricies massa turpis. Arcu pulvinar aenean nam laoreet nulla."
+   } ,
+   {
+    "name":"Jenny Doe",
+    "image":"https://i.ibb.co/vYj9g7F/timg2.jpg",
+    "job":"UX Designer",
+    "rating":5,
+    "detail":"Suspendisse ultrices at diam lectus nullam.Nisl,sagittis viverra enim erat tortor ultricies massa turpis. Arcu pulvinar aenean nam laoreet nulla."
+   } ,
+   {
+    "name":"John Fang",
+    "image":"https://i.ibb.co/FBmBD48/timg1.jpg",
+    "job":"Web Designer",
+    "rating":4,
+    "detail":"Suspendisse ultrices at diam lectus nullam.Nisl,sagittis viverra enim erat tortor ultricies massa turpis. Arcu pulvinar aenean nam laoreet nulla."
+   } ,
+   {
+    "name":"Jenny Doe",
+    "image":"https://i.ibb.co/vYj9g7F/timg2.jpg",
+    "job":"UX Designer",
+    "rating":4,
+    "detail":"Suspendisse ultrices at diam lectus nullam. Nisl, sagittis viverra enim erat tortor ultricies massa turpis. Arcu pulvinar aenean nam laoreet nulla."
+   } 
+    
+
+]
